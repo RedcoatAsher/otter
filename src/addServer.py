@@ -13,6 +13,7 @@ def main(wf):
                     "username": "user.name",
                     "port": "22",
                     "key-path": ""
+                    "more-options": ""
                 }]
         with open(settings, 'w') as outfile:
           json.dump(data, outfile, indent=2, separators=(',', ': '))

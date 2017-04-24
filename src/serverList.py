@@ -29,6 +29,7 @@ def main(wf):
         for s in filtered:
             keyPath = "" if ("key-path" not in s or s['key-path'] == "") else " -i %s" % s['key-path']
             port = "" if ("port" not in s or s['port'] == "") else " -p %s" % s['port']
+            options = "" if ("more-options" not in s or s['more-options'] == "") else " -p %s" % s['more-options']
             wf.add_item(
                 title = "%s" % (s['server-label']),
                 subtitle = "%s | %s@%s" % (s['group-name'], s['username'], s['host']),
