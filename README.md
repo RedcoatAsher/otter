@@ -25,7 +25,7 @@ See the **[release list](https://github.com/AsherPeruscini/otter/releases)** for
 > continue typing the name of the server to filter the list
 
 
-###How-To (#how-to)
+### How-To (#how-to)
 
 ###### `servers.json` examples
 ```json
