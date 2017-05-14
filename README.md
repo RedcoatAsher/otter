@@ -6,26 +6,26 @@ Can be used with any of ther following server connection configs...
 >  username | private keyd
 
 
-### Requirements
+## Requirements
 > Up-to-date **[PowerPack](https://www.alfredapp.com/powerpack/)** subscription
 
 
-### Download
+## Download
 
 See the **[release list](https://github.com/AsherPeruscini/otter/releases)** for the lastest version, and all previous versions.
 
 
-### Usage
+## Usage
 
 +  [Download](https://github.com/AsherPeruscini/otter/releases) & Open
-+  Setup your server(s) in the `servers.json` list... [check out the how-to](#how-to)
++  Setup your server(s) in the `servers.json` list... **check out the how-to**
 +  "Call" Alfred and type `ssh`, then...
 > select from the server names that appear
 -or-
 > continue typing the name of the server to filter the list
 
 
-### How-To (#how-to)
+### How-to
 
 ###### `servers.json` examples
 ```json
