@@ -18,14 +18,14 @@ See the **[release list](https://github.com/AsherPeruscini/otter/releases)** for
 ### Usage
 
 +  [Download](https://github.com/AsherPeruscini/otter/releases) & Open
-+  Setup your server(s) in the `servers.json` list... [check out the how-to](#)
++  Setup your server(s) in the `servers.json` list... [check out the how-to](#how-to)
 +  "Call" Alfred and type `ssh`, then...
 > select from the server names that appear
 -or-
 > continue typing the name of the server to filter the list
 
 
-(###how-to)
+###How-To (#how-to)
 
 ###### `servers.json` examples
 ```json
