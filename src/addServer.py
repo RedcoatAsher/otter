@@ -12,7 +12,7 @@ def main(wf):
                     "host": "domain.com",
                     "username": "user.name",
                     "port": "22",
-                    "key-path": ""
+                    "key-path": "",
                     "more-options": ""
                 }]
         with open(settings, 'w') as outfile:
