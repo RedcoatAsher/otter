@@ -34,7 +34,6 @@ See the **[release list](https://github.com/AsherPeruscini/otter/releases)** for
     "server-label": "web01",
     "host": "domain.com",
     "username": "user.name",
-    "password": "password",
     "key-path": "/Users/Otter/id_rsa",
     "port": "22",
     "more-options": ""
